@@ -1,0 +1,61 @@
+body{
+/*   background-color: violet; */
+  margin:0;
+  padding:0;
+}
+
+header{
+  background-color: gray;
+  padding: 2%;
+  color: white;
+}
+
+.container{
+  height:10vh;
+  width:100%;
+  background-color: yellow;
+}
+
+.navigation{
+  float:right;
+  display:inline-block;
+  width:50%;
+  background-color:purple;
+  padding-top: 0;
+}
+
+ul{
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+
+ul li{
+  margin-left:20px;
+  margin-left:5px;
+  float:left;
+  list-style-type:none;
+}
+
+.blog-title{
+  display:inline-block;
+  width:50%;
+  background-color:black;
+}
+
+a{
+  margin:50px;
+  color:green;
+  text-decoration:none;
+}
+
+main{
+  margin:16px;
+}
+
+footer{
+  height:20vh;
+  background-color: lightblue;
+  color:red;
+  text-align:center;
+}
